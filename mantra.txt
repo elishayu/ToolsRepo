@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Python Python Python  
-And so is nylon
+And so is nylonn 
+Good food, good exercise, good times 
+>>>>>>> feature1
